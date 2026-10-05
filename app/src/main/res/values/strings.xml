@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reels Limiter</string>
+    <string name="accessibility_description">Detects when Instagram is showing Reels so it can count them. Reads screen structure only, never message text, and sends nothing off the device.</string>
+</resources>
